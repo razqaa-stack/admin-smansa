@@ -4,7 +4,139 @@
     "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVqZm1xaWN4emludGZ2bW5mZGVlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODQ3NzA2MjgsImV4cCI6MjEwMDM0NjYyOH0.vDzwGVjiaeWCEgj1xpgMRMv0NswPmsbymtJJr5lZNFM"
   },
   "X.2": {
-    "url": "https://xxxxxxxxxxxxxxxxxxxx.supabase.co",
+    "url": "PASTE_SUPABASE_URL_KELAS_X2_DI_SINI",
     "anonKey": "PASTE_ANON_KEY_KELAS_X2_DI_SINI"
+  },
+  "X.3": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X3_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X3_DI_SINI"
+  },
+  "X.4": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X4_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X4_DI_SINI"
+  },
+  "X.5": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X5_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X5_DI_SINI"
+  },
+  "X.6": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X6_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X6_DI_SINI"
+  },
+  "X.7": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X7_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X7_DI_SINI"
+  },
+  "X.8": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X8_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X8_DI_SINI"
+  },
+  "X.9": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X9_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X9_DI_SINI"
+  },
+  "X.10": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X10_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X10_DI_SINI"
+  },
+  "X.11": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X11_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X11_DI_SINI"
+  },
+  "X.12": {
+    "url": "PASTE_SUPABASE_URL_KELAS_X12_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_X12_DI_SINI"
+  },
+  "XI.1": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI1_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI1_DI_SINI"
+  },
+  "XI.2": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI2_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI2_DI_SINI"
+  },
+  "XI.3": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI3_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI3_DI_SINI"
+  },
+  "XI.4": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI4_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI4_DI_SINI"
+  },
+  "XI.5": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI5_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI5_DI_SINI"
+  },
+  "XI.6": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI6_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI6_DI_SINI"
+  },
+  "XI.7": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI7_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI7_DI_SINI"
+  },
+  "XI.8": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI8_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI8_DI_SINI"
+  },
+  "XI.9": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI9_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI9_DI_SINI"
+  },
+  "XI.10": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI10_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI10_DI_SINI"
+  },
+  "XI.11": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI11_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI11_DI_SINI"
+  },
+  "XI.12": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XI12_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XI12_DI_SINI"
+  },
+  "XII.1": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII1_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII1_DI_SINI"
+  },
+  "XII.2": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII2_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII2_DI_SINI"
+  },
+  "XII.3": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII3_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII3_DI_SINI"
+  },
+  "XII.4": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII4_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII4_DI_SINI"
+  },
+  "XII.5": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII5_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII5_DI_SINI"
+  },
+  "XII.6": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII6_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII6_DI_SINI"
+  },
+  "XII.7": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII7_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII7_DI_SINI"
+  },
+  "XII.8": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII8_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII8_DI_SINI"
+  },
+  "XII.9": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII9_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII9_DI_SINI"
+  },
+  "XII.10": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII10_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII10_DI_SINI"
+  },
+  "XII.11": {
+    "url": "PASTE_SUPABASE_URL_KELAS_XII11_DI_SINI",
+    "anonKey": "PASTE_ANON_KEY_KELAS_XII11_DI_SINI"
   }
 }
