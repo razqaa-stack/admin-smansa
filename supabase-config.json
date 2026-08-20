@@ -52,8 +52,8 @@
     "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRyb2lzdXdnanpkYmFya3RoaGt6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcxNDAwMTIsImV4cCI6MjEwMjcxNjAxMn0._87o5f19dsPYuQw_MTxDqR0Hin4r49veI7Q0xn0e2QA"
   },
   "XI.2": {
-    "url": "PASTE_SUPABASE_URL_KELAS_XI2_DI_SINI",
-    "anonKey": "PASTE_ANON_KEY_KELAS_XI2_DI_SINI"
+    "url": "https://cfxjqlgfhwuexxvmzosp.supabase.co",
+    "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNmeGpxbGdmaHd1ZXh4dm16b3NwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcyMjYxMTEsImV4cCI6MjEwMjgwMjExMX0.9fUxLVOxWzzOXIyWaYT0RkxPpOH9UbV5wVeAW9q0kBg"
   },
   "XI.3": {
     "url": "PASTE_SUPABASE_URL_KELAS_XI3_DI_SINI",
