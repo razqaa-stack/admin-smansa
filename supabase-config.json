@@ -40,8 +40,8 @@
     "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImthZXF1eGNtdXBwZXR0am90ZXJjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcyMjM2NjgsImV4cCI6MjEwMjc5OTY2OH0.xXw6hpe4cLFv1iNYohDAvxv6jKbHBZIpdTaR7GiL5-U"
   },
   "X.11": {
-    "url": "PASTE_SUPABASE_URL_KELAS_X11_DI_SINI",
-    "anonKey": "PASTE_ANON_KEY_KELAS_X11_DI_SINI"
+    "url": "https://ucgmvmvwkrahgfnkfazp.supabase.co",
+    "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVjZ212bXZ3a3JhaGdmbmtmYXpwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcyMzUyNjcsImV4cCI6MjEwMjgxMTI2N30.pFoX8zW_Gm6PnDI-dnGIhF_apAxjOTxn0X-o7wWXPw8"
   },
   "X.12": {
     "url": "https://vmtrkuskizubabhwwnjn.supabase.co",
