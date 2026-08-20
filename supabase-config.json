@@ -124,8 +124,8 @@
     "anonKey": "PASTE_ANON_KEY_KELAS_XII7_DI_SINI"
   },
   "XII.8": {
-    "url": "PASTE_SUPABASE_URL_KELAS_XII8_DI_SINI",
-    "anonKey": "PASTE_ANON_KEY_KELAS_XII8_DI_SINI"
+    "url": "https://hdbqtqkiwvrgfsdbqple.supabase.co",
+    "anonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhkYnF0cWtpd3ZyZ2ZzZGJxcGxlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcyMjk3NDIsImV4cCI6MjEwMjgwNTc0Mn0.bPDgGuGoM-dNorLcf1pvx55MGZCkuFhRBnvAQ7ghoR4"
   },
   "XII.9": {
     "url": "PASTE_SUPABASE_URL_KELAS_XII9_DI_SINI",
@@ -133,7 +133,7 @@
   },
   "XII.10": {
     "url": "PASTE_SUPABASE_URL_KELAS_XII10_DI_SINI",
-    "anonKey": "PASTE_ANON_KEY_KELAS_XII10_DI_SINI"
+    "anonKey": "KEY_SUPABASE"
   },
   "XII.11": {
     "url": "https://fhvgxhnjxygfrnchtufn.supabase.co",
